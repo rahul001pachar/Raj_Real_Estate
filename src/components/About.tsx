@@ -155,7 +155,6 @@ const About = () => {
               <p className="text-blue-600 font-medium mb-2">*******</p>
               <p className="text-gray-600 text-sm">Specializes in residential properties and client relationship management.</p>
             </div>
-            ?
           </div>
         </div>
       </div>
